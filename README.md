@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://cf.shopee.tw/file/cb4afd8dad2f46f6c9bfec7656428042)
 <!--
 **k123eric/k123eric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
