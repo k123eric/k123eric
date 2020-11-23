@@ -1,4 +1,3 @@
-![](https://miro.medium.com/max/816/0*uVa3uE0ZpQhQ6HVi.jpg)
 <!--
 **k123eric/k123eric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
